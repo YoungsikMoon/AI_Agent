@@ -1,2 +1,2 @@
 # AI_Agent
-AI_Agent 스터디
+1주차 노트 정리 : AI Agent 개념
